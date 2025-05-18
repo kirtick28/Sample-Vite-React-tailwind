@@ -1,14 +1,16 @@
-# React + Express Full Stack Template
+# React + Vite + TailwindCSS + Express Full Stack Template
 
-A modern full-stack application template using React with Tailwind CSS for the frontend and Express.js for the backend. This template provides a clean starting point for building full-stack applications with a beautiful dark-themed UI.
+A modern full-stack application template using React with Vite for lightning-fast development, Tailwind CSS for styling, and Express.js for the backend. This template provides a clean starting point for building full-stack applications with a beautiful dark-themed UI and optimized development experience.
 
 ## 🚀 Features
 
-- **Frontend**: React with Tailwind CSS
+- **Frontend**: React + Vite for lightning-fast development
+- **Styling**: Tailwind CSS for utility-first styling
 - **Backend**: Express.js REST API
 - **Modern UI**: Dark theme with responsive design
+- **Development**: Hot Module Replacement (HMR) with Vite
+- **Build**: Optimized production builds with Vite
 - **API Integration**: Ready-to-use API endpoints
-- **Development**: Hot reloading and optimized development experience
 
 ## 📋 Prerequisites
 
