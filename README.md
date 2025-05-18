@@ -89,11 +89,9 @@ The backend provides the following REST API endpoints:
 
 ## 🎨 Frontend Features
 
-- Dark theme UI with gradient backgrounds
 - Responsive design
 - Loading states and error handling
 - Real-time API integration
-- Modern button animations and transitions
 
 ## 🔧 Development
 
