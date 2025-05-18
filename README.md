@@ -7,8 +7,6 @@ A modern full-stack application template using React with Vite for lightning-fas
 - **Frontend**: React + Vite for lightning-fast development
 - **Styling**: Tailwind CSS for utility-first styling
 - **Backend**: Express.js REST API
-- **Modern UI**: Dark theme with responsive design
-- **Development**: Hot Module Replacement (HMR) with Vite
 - **Build**: Optimized production builds with Vite
 - **API Integration**: Ready-to-use API endpoints
 
