@@ -21,8 +21,8 @@ A modern full-stack application template using React with Vite for lightning-fas
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/kirtick28/Sample-Vite-React-tailwind.git
+cd Sample-Vite-React-tailwind
 ```
 
 2. Set up the backend:
